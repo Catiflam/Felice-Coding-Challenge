@@ -1,0 +1,70 @@
+body{
+  background-image: url("imm.back.jpg");
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.container{
+  width: 950px;
+  height: 600px;
+  margin-left: 330px;
+  margin-right: 350px;
+  margin-top:30px;
+  background-color:rgba(0, 0, 0, 0.411);
+  text-align: center;
+  padding: 3%;
+  border-radius:14px;
+  font-family: 'Raleway', sans-serif;
+}
+.logo{
+  width: 200px;
+}
+h1{
+  color: lime;
+  font-size: 30px;
+}
+.banner{
+  background-color: lime;
+  padding: 7px;
+}
+section{
+  width:98%;
+  color:white;
+  text-align: left;
+}
+h2{
+  display: inline-block;
+}
+.arrow:before{
+  content: "\2192";
+}
+.carica{
+  color:white;
+  display: inline-block;
+  width: 870px;
+  text-align: left;
+}
+.line{
+  color: orange;
+  width: 280px;
+  padding: 2px;
+  background-color: orange;
+  display: inline-block;
+  border-radius: 5px;
+}
+.line2{
+  color: green;
+  width: 520px;
+  padding: 2px;
+  background-color: green;
+  display: inline-block;
+  border-radius: 5px;
+}
+.line3{
+  color: red;
+  width: 130px;
+  padding: 2px;
+  background-color: red;
+  display: inline-block;
+  border-radius: 5px;
+}
